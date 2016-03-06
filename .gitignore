@@ -4,9 +4,10 @@
 
 # Project Generated Files #
 ###########################
-# from npm and bower install
+# from npm and bower
 node_modules
 bower_components
+npm-debug.log
 
 #from gulp build
 **/style/css
